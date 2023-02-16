@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm jr0w3</h1>
 <h3 align="center">Just a passionate person.</h3>
 
-- 🔭 I’m currently working on **glpi-docker**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jr0w3?tab=repositories](https://github.com/jr0w3?tab=repositories)
-
 - 📫 How to reach me **jr0w3@languin.fr**
 
 <h3 align="left">Languages and Tools:</h3>
